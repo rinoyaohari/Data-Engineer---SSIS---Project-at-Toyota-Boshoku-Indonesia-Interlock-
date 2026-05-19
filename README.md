@@ -82,7 +82,7 @@ I worked primarily as a **Data Engineer**, while also supporting the **Project M
 
 ---
 
-# Project Workflow
+# Project Flowchart
 
 ```mermaid
 flowchart TD
@@ -111,5 +111,9 @@ G --> H
 E --> I
 A --> K
 J --> L
+
+```
+
+# Project Workflow
 K --> L
 H --> L
