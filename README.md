@@ -13,6 +13,7 @@ Additional data sources were also integrated from **Mendix** applications. All g
 
 I worked primarily as a **Data Engineer**, while also supporting the **Project Manager** in project coordination, reporting, and delivery activities.
 
+![Workflow](https://github.com/rinoyaohari/Data-Engineer---SSIS---Project-at-Toyota-Boshoku-Indonesia-Interlock-/blob/aa200357b18b582dbdea55a940765da44876b407/WorkflowGeneral.jpg)
 ---
 
 # Responsibilities
@@ -111,9 +112,13 @@ G --> H
 E --> I
 A --> K
 J --> L
-
+K --> L
+H --> L
 ```
 
 # Project Workflow
-K --> L
-H --> L
+This is the Control Flow used on my SSIS
+![Control](https://github.com/rinoyaohari/Data-Engineer---SSIS---Project-at-Toyota-Boshoku-Indonesia-Interlock-/blob/aa200357b18b582dbdea55a940765da44876b407/CFlow-Interlock.jpg)
+
+This is the Data Flow used on my SSIS
+![Data](https://github.com/rinoyaohari/Data-Engineer---SSIS---Project-at-Toyota-Boshoku-Indonesia-Interlock-/blob/aa200357b18b582dbdea55a940765da44876b407/DFlow-Interlock.jpg)
